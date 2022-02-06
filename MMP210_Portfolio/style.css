@@ -1,0 +1,95 @@
+h1 {
+    margin: 0px;
+    padding:0px;
+    border: 0px;
+    font-style: italic;
+    font-family: Gill Sans, sans-serif;
+    font-size: 50px;
+    position: relative;
+    left: 500px;
+    text-shadow: 2px 2px #FF0000;
+} 
+#div1{
+    position: relative;
+    left: 290px;
+    top: 80px;
+    font-family: Gill Sans, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 2px 2px #FF0000;
+   
+
+
+    
+}
+#Jojo1{
+    position: relative;
+    left: 200px;
+    top: 50px;
+    border: 5px solid red;
+    border-radius: 10px;
+    border-style: dotted;
+   
+}
+#borderimg { 
+    border-image:  30 round;
+  }
+
+  body {background-color: coral;}
+
+#Jojo2{
+    position: relative;
+    left: 400px;
+    top: 50px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    border-style: dotted;
+    border-collapse: separate;
+    border-spacing: 15px;
+    
+}
+#div2{
+    position: relative;
+    left: 970px;
+    top: 20px;
+    font-family: Gill Sans, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 2px 2px #FF0000;
+    
+
+}
+#div3{
+    position: relative;
+    left: 120px;
+    top: 20px;
+    font-family: Gill Sans, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+}
+#div4{
+    position: relative;
+    left: 760px;
+    top: -140px;
+    font-family: Gill Sans, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+}
+#Jojo3{
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+#div5{
+    position: relative;
+    left: 500px;
+    top: 20px; 
+    font-style: italic;
+    font-family: Gill Sans, sans-serif;
+    font-size: 50px;
+    position: relative;
+    left: 600px;
+    text-shadow: 2px 2px #FF0000;
+}
