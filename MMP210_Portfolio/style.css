@@ -93,19 +93,9 @@ h1 {
     left: 600px;
     text-shadow: 2px 2px #FF0000;
 }
-#Jojo4{
-    position: relative;
-    left: -350px;
-    top: 900px;
-    border: 5px solid green;
-    border-radius: 10px;
-    border-style: dotted;
-    border-collapse: separate;
-    border-spacing: 15px;
-    
+
     
       
-}
 #div6{
     position: relative;
     left: 400px;
