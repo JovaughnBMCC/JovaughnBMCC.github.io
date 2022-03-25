@@ -127,3 +127,10 @@ h1 {
     top: 2000px;
 
 }
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
