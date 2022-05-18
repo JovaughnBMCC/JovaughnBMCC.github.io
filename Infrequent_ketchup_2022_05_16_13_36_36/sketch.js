@@ -4,7 +4,7 @@ var serial;
 
 // fill in the name of your serial port here:
 //copy this from the serial control app
-var portName = "/dev/tty.usbmodem11301";
+var portName = "/dev/tty.usbmodem1301";
 
 //this array will hold transmitted data
 var inMessage = 0;
